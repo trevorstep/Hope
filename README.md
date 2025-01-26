@@ -2,9 +2,7 @@ Name: Trevor Stephenson
 
 Sprint #1
 
-## Instructions
-
-For the Category column, record one of the following:
+Time types:
 * IM - Individual Module (Project)
 * TP - Team Project
 * MTG - Class Meeting
