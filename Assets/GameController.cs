@@ -25,9 +25,4 @@ public class GameController : MonoBehaviour
         transform.position = startPos;
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
