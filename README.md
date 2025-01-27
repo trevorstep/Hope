@@ -1,6 +1,60 @@
 Name: Trevor Stephenson
 
 Sprint #1
+## Overview
+
+**Project Title**:Hope
+
+**Project Description**: Build a game that allows a player to traverse through a 2D platformer world to an end goal.
+
+**Project Goals**:Get the charchter to be able to move, jump, and traverse a 2D world.
+
+## Instructions for Build and Use
+
+Steps to build and/or run the software:
+
+1. Install Unity hub
+2. In Unity hub Clone repository HTTPS link.
+3. Press play in editor.
+
+Instructions for using the software:
+
+1. Use mouse left click to jump
+2. Use left and right arrow keys to move. 
+3. Have fun:D
+
+## Development Environment 
+
+To recreate the development environment, you need the following software and/or libraries with the specified versions:
+
+* Unity Hub, .NET framework.
+
+## Useful Websites to Learn More
+
+I found these websites useful in developing this software:
+
+Backround music for game: Game On from HeatleyBros IV
+[BandCamp](https://heatleybros.bandcamp.com/track/game-on)
+
+Sound Effects:
+[Asset store](https://assetstore.unity.com/packages/audio/sound-fx/free-casual-game-sfx-pack-54116)
+
+[Unity documentation](https://docs.unity3d.com/6000.0/Documentation/ScriptReference/CharacterController.Move.html)
+
+Youtube tutorials:
+[Youtube](https://www.youtube.com/watch?v=UbPiCgCkHTE)
+[Youtube](https://www.youtube.com/watch?v=Qn8tJhnY3eI&t=41s)
+[Youtube](https://www.youtube.com/watch?v=hiA_qRiNgfg)
+
+
+## Future Work
+
+The following items I plan to fix, improve, and/or add to this project in the future:
+
+* [ ] Create finish line. 
+* [ ] Make new levels.
+* [ ] Give story mode.
+
 
 Time types:
 * IM - Individual Module (Project)
